@@ -20,6 +20,8 @@ public:
     virtual G4VPhysicalVolume *Construct();// construct() is the main function
     // virtual function is due to the class G4VPhysicalColume is defined in G4UserDetectorConstruction
     
+private:
+    G4LogicalVolume *logicDetector;
 };
 
 
