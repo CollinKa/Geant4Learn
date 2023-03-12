@@ -1,0 +1,4 @@
+/home/zheng/geant4/prac_sim/build/CMakeFiles/rebuild_cache.dir
+/home/zheng/geant4/prac_sim/build/CMakeFiles/Simulation.dir
+/home/zheng/geant4/prac_sim/build/CMakeFiles/edit_cache.dir
+/home/zheng/geant4/prac_sim/build/CMakeFiles/sim.dir
