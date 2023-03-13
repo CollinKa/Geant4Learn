@@ -1,0 +1,4 @@
+/home/collin/CERN/Geant4Learn/build/CMakeFiles/rebuild_cache.dir
+/home/collin/CERN/Geant4Learn/build/CMakeFiles/Simulation.dir
+/home/collin/CERN/Geant4Learn/build/CMakeFiles/edit_cache.dir
+/home/collin/CERN/Geant4Learn/build/CMakeFiles/sim.dir

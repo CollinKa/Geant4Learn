@@ -10,6 +10,8 @@
 #include "G4Material.hh"
 #include "G4SystemOfUnits.hh"
 
+#include "detector.hh"
+
 //inherate
 class MyDetectorConstruction : public G4VUserDetectorConstruction
 {
@@ -22,6 +24,7 @@ public:
     
 private:
     G4LogicalVolume *logicDetector;
+    virtual void ConstrutSDandField();
 };
 
 

@@ -77,8 +77,9 @@ G4VPhysicalVolume *MyDetectorConstruction::Construct() //is the class name
     return physWorld; //return the hightest mother volume
 
 
-
-
-
-
+}
+void MyDetectorConstruction::ConstrutSDandField()
+{
+    MySensitiveDetector *sensDet = new MySensitiveDetector("SensitiveDetector");
+    logicDetector->SetSensitiveDetector(sensDet);
 }
